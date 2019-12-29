@@ -16,8 +16,10 @@ The Force Directed Graph was created in Unity using C# scripts to parse and gene
 ## Demo
 The picture shows an example of a medium sized Force Directed Graph. Click the following picture to go to a Demo video on youtube that shows a large graph(500 data points), medium graph(50 data points), and a small graph(10 data points). 
 
-<a href="https://www.youtube.com/watch?v=NCek6mg-cnU" target="_blank"><img src="https://github.com/storm-king/VisualizationForceDirectedGraph/blob/master/MediumSizeGraph.png" 
-alt="Medium Size Graph" width="500" height="500" border="10" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=NCek6mg-cnU" target="_blank"><img src="https://github.com/storm-king/VisualizationForceDirectedGraph/blob/master/MediumSizeGraph.png" 
+  alt="Medium Size Graph" width="500" height="500" border="10" /></a>
+</p>
 
 
 
