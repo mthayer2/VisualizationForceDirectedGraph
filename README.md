@@ -13,7 +13,9 @@ The Force Directed Graph was created in Unity using C# scripts to parse and gene
 * Allowing the user to explore the graph - Zoom features and orbiting the entire graph
 * Selecting a specific node to pop up its information and highlighting only its connected nodes to improve readability.
 
-![Medium Size Graph](https://github.com/storm-king/VisualizationForceDirectedGraph/blob/master/MediumSizeGraph.png){:height="500px" width="500px"}
+
+<a href="https://www.youtube.com/watch?v=NCek6mg-cnU" target="_blank"><img src="https://github.com/storm-king/VisualizationForceDirectedGraph/blob/master/MediumSizeGraph.png" 
+alt="Medium Size Graph" width="500" height="500" border="10" /></a>
 
 
 
