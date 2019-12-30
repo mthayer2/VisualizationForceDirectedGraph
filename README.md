@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" height="400" src="https://github.com/storm-king/VisualizationForceDirectedGraph/blob/master/ForceDirectedGraphDemo.gif">
+</p>
+
 # Visualization Force Directed Graph
 Data visualization is used to analyze abstract patterns in data, but when visualizing large data, we can face clustering problems in graphs that make it resemble hairballs. 
 
