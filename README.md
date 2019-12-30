@@ -8,7 +8,7 @@ Data visualization is used to analyze abstract patterns in data, but when visual
 A common way to solve this problem is to use a Force Directed Graph to arrange and connect the nodes to make it easily analyzable. The Force Directed Graph adds a force to each node based on how heavily connected each of the data points are. 
 
 ## Industry
-The largest implication of a Force Directed Graph is its use with the analysis of social media networks. According to Neo4j, a company whose mission enables organizations to unlock the business value of connections, influences, and relationships in data, the high density of connections in social media along with the relationship of each connection are the most crucial pieces of information for use in understanding each user.
+The largest implication of a Force Directed Graph is its use with the analysis of social media networks. According to Neo4j, a company whose mission enables organizations to unlock the business value of influences in data, the high density of connections in social media along with the relationship of each connection are the most crucial pieces of information for use in understanding each user.
 
 ## Problem Solutions and Interactions
 The Force Directed Graph was created in Unity using C# scripts to parse and generate the graph. Data used to generate this graph is the Meetup Group Connections dataset from Kaggle. The following approach was used to solve the problems mentioned above:
